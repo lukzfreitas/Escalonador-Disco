@@ -25,7 +25,7 @@ gráfico do escalonamento baseados na ordem desta lista ordenada.
   - O C-SCAN implementa quase que da mesma forma que o SCAN, a diferença que o cabeçote vai até as posições zero e a posição máxima do número de cilindros, a lista de menores é adicionada no final da lista de maiores e o
 percurso do último cilindro do disco até o cilindro zero não é contabilizado no número de movimentos do cabeçote.
 
-- ** LOOK e C-LOOK **
+- **LOOK e C-LOOK**
   - Os algoritmos LOOK e C-LOOK, ambos geram o mesmo gráfico, que também são iguais ao do SCAN, com a diferença que o cabeçote não vai até os extremos zero e número total de
 cilindros, entretanto vão até o final de cada extremidade do array de cilindros que serão visitados depois de ordenado. A única diferença entre o LOOK e CLOOK é que no segundo algoritmo o
 percurso do último cilindro da lista de maiores até o primeiro cilindro da lista de menores que o cilindro inicial não é contabilizado no número de movimentos do cabeçote.
