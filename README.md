@@ -38,3 +38,7 @@ Tela Inicial
 Gráfico gerado do trajeto realizado pelo algoritmo FCFS
 
 ![FCFS](https://raw.githubusercontent.com/lukzfreitas/Escalonador-Disco/master/Escalonador-disco/FSFC.png)
+
+# Colaboradores
+[Camila Moser](https://github.com/CamilaMoser) e [Lucas Freitas](https://github.com/lukzfreitas).
+
