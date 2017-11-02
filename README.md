@@ -2,7 +2,7 @@
 Trabalho desenvolvido na linguagem java da disciplina de Sistemas Operacionais do curso de Sistemas de Informação PUCRS.
 
 Este trabalho tem como proposta simular os algoritmos escalonamento de disco tais como: FCFS (First Come First Served), SSTF (Shorest Seek Time First), SCAN, C-SCAN, LOOK e C-LOOK.
-A aplicação realiza o calculo da quantidade de movimentos que o cabeçote realiza para percorrer determinados cilindros do discos para cada algoritmo, estes cilindros são definidos neste [arquivo] (https://github.com/lukzfreitas/Escalonador-Disco/blob/master/Escalonador-disco/arquivo.txt). A primeira linha deste arquivo é informado o número total de cilindros do disco, na segunda linha o cilindro onde o cabeçote estará posicionado inicialmente e na terceira linha uma lista de números correspondentes aos cilindros onde o cabeçote irá percorrer.
+A aplicação realiza o calculo da quantidade de movimentos que o cabeçote realiza para percorrer determinados cilindros do discos para cada algoritmo, estes cilindros são definidos neste [arquivo](https://github.com/lukzfreitas/Escalonador-Disco/blob/master/Escalonador-disco/arquivo.txt). A primeira linha deste arquivo é informado o número total de cilindros do disco, na segunda linha o cilindro onde o cabeçote estará posicionado inicialmente e na terceira linha uma lista de números correspondentes aos cilindros onde o cabeçote irá percorrer.
 
 Além da mostrar quantidade de movimentos que o cabeçote realiza para percorrer todos os cilidros, esta aplicação gera um gráfico com o trajeto que cabeçote realiza para percorrer todos os cilindros de cada algoritmo.
 
@@ -33,8 +33,8 @@ percurso do último cilindro da lista de maiores até o primeiro cilindro da lis
 # Exemplos
 Tela Inicial
 
-![TELA_INICIAL] (https://raw.githubusercontent.com/lukzfreitas/Escalonador-Disco/master/Escalonador-disco/telaInicial.PNG)
+![TELA_INICIAL](https://raw.githubusercontent.com/lukzfreitas/Escalonador-Disco/master/Escalonador-disco/telaInicial.PNG)
 
 Gráfico gerado do trajeto realizado pelo algoritmo FCFS
 
-![FCFS] (https://raw.githubusercontent.com/lukzfreitas/Escalonador-Disco/master/Escalonador-disco/FSFC.png)
+![FCFS](https://raw.githubusercontent.com/lukzfreitas/Escalonador-Disco/master/Escalonador-disco/FSFC.png)
